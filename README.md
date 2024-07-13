@@ -32,6 +32,4 @@ function minimax(node, depth, maximizingPlayer, alpha, beta) is
 
 ### Demo:
 
-![tictactoe](/src/tictactoe.gif)
-
 <p align="center"> You can find this live <a href="https://karthik-nayak98.github.io/tic-tac-toe/">here</a>  </p>
